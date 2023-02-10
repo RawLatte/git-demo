@@ -1,0 +1,9 @@
+hello git
+alized empty Git repository in E:/Git/Git-Space/.git/
+
+86176@LAPTOP-DLR2UV6L MINGW64 /e/Git/Git-Space (master)
+$ ll -a
+total 4
+drwxr-xr-x 1 86176 197609 0 Feb 10 11:57 ./
+a
+rwxr-xr-x 1 86176 197609 0 Feb 10 11:55 ../
